@@ -68,7 +68,7 @@
 
 |로그인 웹|
 |------|
-|![로그인](https://github.com/user-attachments/assets/e5e4aa94-8e87-459c-8c23-a46b1b391da2)|
+|![로그인](https://github.com/user-attachments/assets/1908794b-2697-4def-a1c7-632f64d7dc9b)|
 
 |로그인 앱|
 |------|
