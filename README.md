@@ -55,7 +55,7 @@
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/d5dd3f57-6d41-4a94-b066-1ef715c01ed3">
 
 ### 4. 화면별 기능
-[로그인]
+### [로그인]
 학생들의 접근 편이성을 위하여 PC 웹사이트와 모바일 어플 모두 동시에 지원합니다.
 
 |로그인 웹|
@@ -65,6 +65,41 @@
 |로그인 앱|
 |------|
 |![로그인_앱](https://github.com/user-attachments/assets/a9b1d747-ad66-4a58-b5f5-ca622aea9979)|
+
+### [홈 화면 (학사일정 캘린더)]
+네팔의 교장 선생님 Google Calendar 계정과 연동된 서비스를 제공하여 
+학사 일정을 효율적으로 관리할 수 있도록 돕습니다.
+ 
+|홈 화면|
+|------|
+|![홈화면_최종](https://github.com/user-attachments/assets/7eb661f1-0cb3-4b7c-bc1d-a5e08d1663a9)|
+
+### [공지 게시판]
+영유아부터 초등학생까지 다양한 연령대의 학생들을 위한 특별한 기능 2가지를 소개합니다.
+네팔 언어 번역을 위한 다국어 지원 / 텍스트 읽어주기 (Text-to-Speech) 기능 지원
+
+
+|공지 게시판|
+|------|
+|![공지2](https://github.com/user-attachments/assets/bd892c45-5631-4d3a-9d74-5177f3392600)|
+
+
+## [학생 조회]
+수기로 관리하던 학생 명부를 디지털화하였습니다.
+온라인으로 학생 프로필을 관리하고 엑셀 파일로 내보내는 기능을 지원합니다.
+
+|학생 조회|
+|------|
+![학생조회2](https://github.com/user-attachments/assets/203b4ce0-9e15-4517-80fc-f2b3174b0fe1)
+
+## [반 배정]
+학급, 담임 교사, 학생을 그룹별로 구성하여 체계적인 학급 관리가 가능하며, 반배정도 쉽게 할 수 있습니다.
+
+|반 배정|
+|------|
+|![반배정2](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
+
+
 
 
 
