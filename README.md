@@ -7,6 +7,7 @@
   - IT 인프라 부족 및 경제적 제약 등으로 자체 웹사이트 개발이 힘든 학교에 보안이 강화된 디지털 학사 행정 시스템 제공하였습니다.
 
 ## 🎥 시연영상
+프로보노 ICT 멘토링 공모전에 제출한 시연 영상입니다.
 [![네팔 학교 학사행정관리 시스템 시연영상](https://img.youtube.com/vi/UAfsIZcydPI/0.jpg )](https://www.youtube.com/watch?v=UAfsIZcydPI)
 
 ## 팀원 구성
@@ -54,7 +55,7 @@
 ### 3. 시스템 아키텍처
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/d5dd3f57-6d41-4a94-b066-1ef715c01ed3">
 
-### 4. 화면별 기능
+### 4. 화면별 주요 기능
 ### [로그인]
 학생들의 접근 편이성을 위하여 PC 웹사이트와 모바일 어플 모두 동시에 지원합니다.
 
@@ -107,5 +108,11 @@
 |출석|
 |------|
 |![출석](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
+
+### 5. 사용자 리서치 및 피드백
+
+### 6. 실제 사용 사진
+<img width="985" alt="image" src="https://github.com/user-attachments/assets/c5c599e5-cf9f-4512-9c15-447d4ec37abb">
+
 
 
