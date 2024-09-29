@@ -40,3 +40,32 @@
 - **Android Studio (2022.3.1)**: Android application 프로그램 개발
 - **안드로이드 OS (11.0)**: 스마트폰 운영체제
 
+## 2. 개발 기간 및 작업 관리
+### 개발 기간
+- 전체 프로젝트 진행 기간 : 2024-04 ~ 2024-08
+- 기획 기간 : 2024-04 ~ 2024-06
+- 개발 기간 : 2024-06 ~ 2024-08
+
+### 3. 작업 관리
+- 프로젝트 관리 : Jira에서 기간별 Sprint를 생성하여 작업을 할당 및 공유하여 관리하였습니다.
+- 형상 관리 : Git Flow의 브랜치 전략을 채택하여 Github로 관리하였습니다.
+- 이슈 관리 : 주간회의를 진행하며 Confluence에 회의록을 작성하였으며 파트별 주간 Wiki를 작성하여 이슈를 공유하였습니다.
+
+### 3. 시스템 아키텍처
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/d5dd3f57-6d41-4a94-b066-1ef715c01ed3">
+
+### 4. 화면별 기능
+[로그인]
+학생들의 접근 편이성을 위하여 PC 웹사이트와 모바일 어플 모두 동시에 지원합니다.
+
+|로그인 웹|
+|------|
+|![로그인](https://github.com/user-attachments/assets/e5e4aa94-8e87-459c-8c23-a46b1b391da2)|
+
+|로그인 앱|
+|------|
+|![로그인_앱](https://github.com/user-attachments/assets/a9b1d747-ad66-4a58-b5f5-ca622aea9979)|
+
+
+
+
