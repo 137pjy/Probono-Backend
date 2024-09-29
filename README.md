@@ -58,7 +58,11 @@
 ### 3. 시스템 아키텍처
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/d5dd3f57-6d41-4a94-b066-1ef715c01ed3">
 
-### 4. 화면별 주요 기능
+### 4. ERD
+<img width="813" alt="image" src="https://github.com/user-attachments/assets/3dedc3a7-2fa8-4dfc-9d78-c4482fae32de">
+
+
+### 5. 화면별 주요 기능
 ### [로그인]
 학생들의 접근 편이성을 위하여 PC 웹사이트와 모바일 어플 모두 동시에 지원합니다.
 
@@ -69,10 +73,6 @@
 |로그인 앱|
 |------|
 |![로그인_앱](https://github.com/user-attachments/assets/a9b1d747-ad66-4a58-b5f5-ca622aea9979)|  
-
-
-
-
 
 
 
@@ -123,7 +123,7 @@
 |------|
 |![출석](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
 
-### 5. 사용자 리서치 및 피드백
+### 6. 사용자 리서치 및 피드백
 교장 선생님과 주기적으로 카톡 회의 및 온라인 미팅을 진행하고, 
 주된 사용자인 학생들에게 설문조사를 진행하여 피드백을 받을 수 있었습니다.
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/813d81b3-96ef-4371-a464-1f80bf0b4427">
@@ -132,7 +132,7 @@
 
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/eaf1359f-c962-4e7b-873b-899defd8358e">
 
-### 6. 실제 사용 사진
+### 7. 실제 사용 사진
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/c5c599e5-cf9f-4512-9c15-447d4ec37abb">
 
 
