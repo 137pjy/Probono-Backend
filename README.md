@@ -127,9 +127,6 @@
 교장 선생님과 주기적으로 카톡 회의 및 온라인 미팅을 진행하고,주된 사용자인 학생들에게 설문조사를 진행하여 피드백을 받을 수 있었습니다.
 
 
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/813d81b3-96ef-4371-a464-1f80bf0b4427">
-<img width="352" alt="image" src="https://github.com/user-attachments/assets/2084a192-7920-47ea-a78e-3e89f258be0f">
-
 
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/eaf1359f-c962-4e7b-873b-899defd8358e">
 
