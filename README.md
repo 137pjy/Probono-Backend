@@ -7,13 +7,16 @@
   - IT 인프라 부족 및 경제적 제약 등으로 자체 웹사이트 개발이 힘든 학교에 보안이 강화된 디지털 학사 행정 시스템 제공하였습니다.
 
 ## 🎥 시연영상
-프로보노 ICT 멘토링 공모전에 제출한 시연 영상입니다.
 [![네팔 학교 학사행정관리 시스템 시연영상](https://img.youtube.com/vi/UAfsIZcydPI/0.jpg )](https://www.youtube.com/watch?v=UAfsIZcydPI)
+
+
 
 ## 팀원 구성
 |김나경|윤재원|박지연|박준형|
 |------|---|---|---|
 |프론트|프론트|백엔드|벡엔드|
+
+
 
 ## 1. 개발 환경
 
@@ -65,7 +68,13 @@
 
 |로그인 앱|
 |------|
-|![로그인_앱](https://github.com/user-attachments/assets/a9b1d747-ad66-4a58-b5f5-ca622aea9979)|
+|![로그인_앱](https://github.com/user-attachments/assets/a9b1d747-ad66-4a58-b5f5-ca622aea9979)|  
+
+
+
+
+
+
 
 ### [홈 화면 (학사일정 캘린더)]
 네팔의 교장 선생님 Google Calendar 계정과 연동된 서비스를 제공하여 
@@ -78,11 +87,12 @@
 ### [공지 게시판]
 영유아부터 초등학생까지 다양한 연령대의 학생들을 위한 특별한 기능 2가지를 소개합니다.
 네팔 언어 번역을 위한 다국어 지원 / 텍스트 읽어주기 (Text-to-Speech) 기능 지원
-
-
 |공지 게시판|
 |------|
 |![공지2](https://github.com/user-attachments/assets/bd892c45-5631-4d3a-9d74-5177f3392600)|
+
+
+
 
 
 ## [학생 조회]
@@ -91,14 +101,18 @@
 
 |학생 조회|
 |------|
-![학생조회2](https://github.com/user-attachments/assets/203b4ce0-9e15-4517-80fc-f2b3174b0fe1)
+![학생조회2](https://github.com/user-attachments/assets/203b4ce0-9e15-4517-80fc-f2b3174b0fe1)  
+
+
 
 ## [반 배정]
 학급, 담임 교사, 학생을 그룹별로 구성하여 체계적인 학급 관리가 가능하며, 반배정도 쉽게 할 수 있습니다.
 
 |반 배정|
 |------|
-|![반배정](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
+|![반배정](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|  
+
+
 
 
 
@@ -110,6 +124,13 @@
 |![출석](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
 
 ### 5. 사용자 리서치 및 피드백
+교장 선생님과 주기적으로 카톡 회의 및 온라인 미팅을 진행하고, 
+주된 사용자인 학생들에게 설문조사를 진행하여 피드백을 받을 수 있었습니다.
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/813d81b3-96ef-4371-a464-1f80bf0b4427">
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/2084a192-7920-47ea-a78e-3e89f258be0f">
+
+
+<img width="831" alt="image" src="https://github.com/user-attachments/assets/eaf1359f-c962-4e7b-873b-899defd8358e">
 
 ### 6. 실제 사용 사진
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/c5c599e5-cf9f-4512-9c15-447d4ec37abb">
