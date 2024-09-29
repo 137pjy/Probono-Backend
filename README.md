@@ -97,10 +97,15 @@
 
 |반 배정|
 |------|
-|![반배정2](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
+|![반배정](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
 
 
 
-
+## [출석]
+수기로 관리하던 출석부를 디지털화! 
+온라인으로 출석부를 관리하고 엑셀 통계 파일로 내보내는 기능을 지원합니다.
+|출석|
+|------|
+|![출석](https://github.com/user-attachments/assets/bcd1cc09-8c4c-4416-9617-ed7b76c30639)|
 
 
