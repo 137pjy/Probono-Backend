@@ -1,3 +1,13 @@
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
 # 🎓 네팔 학교 학사행정관리 시스템
 
 - 배포 URL : http://www.cla-school.site/
@@ -55,10 +65,10 @@
 - 형상 관리 : Git Flow의 브랜치 전략을 채택하여 Github로 관리하였습니다.
 - 이슈 관리 : 주간회의를 진행하며 Confluence에 회의록을 작성하였으며 파트별 주간 Wiki를 작성하여 이슈를 공유하였습니다.
 
-### 3. 시스템 아키텍처
+## 3. 시스템 아키텍처
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/d5dd3f57-6d41-4a94-b066-1ef715c01ed3">
 
-### 4. ERD
+## 4. ERD
 <img width="813" alt="image" src="https://github.com/user-attachments/assets/3dedc3a7-2fa8-4dfc-9d78-c4482fae32de">
 
 
@@ -95,7 +105,7 @@
 
 
 
-## [학생 조회]
+### [학생 조회]
 수기로 관리하던 학생 명부를 디지털화하였습니다.
 온라인으로 학생 프로필을 관리하고 엑셀 파일로 내보내는 기능을 지원합니다.
 
@@ -105,7 +115,7 @@
 
 
 
-## [반 배정]
+### [반 배정]
 학급, 담임 교사, 학생을 그룹별로 구성하여 체계적인 학급 관리가 가능하며, 반배정도 쉽게 할 수 있습니다.
 
 |반 배정|
@@ -116,21 +126,45 @@
 
 
 
-## [출석]
+### [출석]
 수기로 관리하던 출석부를 디지털화! 
 온라인으로 출석부를 관리하고 엑셀 통계 파일로 내보내는 기능을 지원합니다.
 |출석|
 |------|
 |![출석](https://github.com/user-attachments/assets/72891564-8d74-4de5-84da-36d5f09dbb6a)|
 
-### 6. 사용자 리서치 및 피드백
+### [학년별 커리큘럼 관리]
+|학년별 커리큘럼 관리|
+|------|
+|![학년별커리큘럼관리](https://github.com/user-attachments/assets/b8b5885a-7675-4791-a929-7bb660ad8adb)|
+
+### [학급 게시판]
+|학년별 커리큘럼 관리|
+|------|
+|![학급 게시판](https://github.com/user-attachments/assets/4fe47d96-8ca4-4bab-8721-56f38602ec58)|
+
+### [마이페이지]
+|마이페이지|
+|------|
+|![마이페이지](https://github.com/user-attachments/assets/a9613152-18d2-42bd-b148-ea9270a49172)|
+
+### [학급정보]
+|학급정보|
+|------|
+|![학급정보](https://github.com/user-attachments/assets/3ce1cdc6-17b5-4512-aacc-71dbf2a67bf5)|
+
+
+
+
+
+## 6. 사용자 리서치 및 피드백
 교장 선생님과 주기적으로 카톡 회의 및 온라인 미팅을 진행하고,주된 사용자인 학생들에게 설문조사를 진행하여 피드백을 받을 수 있었습니다.
 
 
 
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/eaf1359f-c962-4e7b-873b-899defd8358e">
 
-### 7. 실제 사용 사진
+## 7. 실제 사용 사진
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/c5c599e5-cf9f-4512-9c15-447d4ec37abb">
 
 
