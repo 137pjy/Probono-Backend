@@ -66,7 +66,8 @@
 - 이슈 관리 : 주간회의를 진행하며 Confluence에 회의록을 작성하였으며 파트별 주간 Wiki를 작성하여 이슈를 공유하였습니다.
 
 ## 3. 시스템 아키텍처
-<img width="498" alt="image" src="https://github.com/user-attachments/assets/d5dd3f57-6d41-4a94-b066-1ef715c01ed3">
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/4e1db46b-17be-426f-a618-bf10d02ad832">
+
 
 ## 4. ERD
 <img width="813" alt="image" src="https://github.com/user-attachments/assets/3dedc3a7-2fa8-4dfc-9d78-c4482fae32de">
